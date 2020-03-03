@@ -1,6 +1,9 @@
 # Double-slit-Experiment
 
-Descripción.
+Se realizara la simulacion del experimento de la doble rendija.
+Dicho experimento consiste en: 
+Apuntar una fuente de electrones o fotones hacia unas rendijas que dispersen su haz de luz, generando un patron inesperado, el cual se explica por medio de la interferenncia de las particulas de luz con sigo mismas en otros universos. 
+En este caso para modelar este fenomeno utilizaremos la fisica cuantica, por medio de la libreria que hemos venido desarrollando.  
 
 ## Experimento real
 Esta imagen representa conceptual mente el montaje real.
@@ -12,6 +15,7 @@ Dicho esto, nuestro montaje simplemente consistió en colocar una mina frente al
 De este modo el montaje quedo así:
 
 ![](/img/real_experiment_1.jpg)
+
 ![](/img/real_experiment_2.jpg)
 
 ## Simulación en la libreria
