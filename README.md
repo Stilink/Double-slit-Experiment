@@ -1,2 +1,3 @@
 # Double-slit-Experiment
-![alt_text](/img/pic_experiment_1.jpg)
+
+![](https://github.com/Stilink/Double-slit-Experiment/blob/master/img/LightSlit.IndiaPrice.png)
