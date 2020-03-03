@@ -6,7 +6,7 @@ Descripción.
 Esta imagen representa conceptual mente el montaje real.
 ![](https://github.com/Stilink/Double-slit-Experiment/blob/master/img/LightSlit.IndiaPrice.png)
 Ahora, una vez tengamos el montaje real buscamos obtener lo siguiente.
-![](https://github.com/Stilink/Double-slit-Experiment/blob/master/img/pic_experiment_1.jpg)
+![](/img/pic_experiment_1.jpg)
 ![](https://github.com/Stilink/Double-slit-Experiment/blob/master/img/pic_experiment_4.jpg)
 Dicho esto, nuestro montaje simplemente consistió en colocar una mina frente al laser, que hará las veces de la rendija. Esto se hizo con el objetivo de hacer mas sencillo el montaje. Aparte de esto se monto una pantalla, en la cual se pudiese reflejar los resultados, además se pego el laser a una base para darle estabilidad y en la misma esta unida a la mina(rendija).
 De este modo el montaje quedo así:
