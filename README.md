@@ -70,3 +70,9 @@ Los resultados generados por dicho código, son:
 Estos datos son los resultados de evaluar el sistema en dos posiciones. 
 La primera seria en un click de tiempo: Esto nos señala que la luz proveniente del nodo origen, se ha transladado a las rendijas dentro del sistema. Para ser más claros, el "Valor" de la probabilidad que inicialmente se encontraba en el nodo , se distribuyo equitativamente en el nodo 1 y 2.
 Por otro lado, la segunda tanda de resultados se da una vez el sistema ha alcanzado dos clicks: Estos nos muestra de manera clara el evento de interferencia. Como se puede ver en los nodos que no son objetivo de dos rendijas a la vez, la luz persiste, de una manera u otra los valores de probabilidad siguen existiendo. Mientras que en los nodos que en efecto son foco de dos rendijas al mismo tiempo, la luz se atenua y de hecho se "cancela", por cancelar queremos decir que es en estos casos donde se presenta la interfencia entre las particulas de nuestro universo y las particulas presentes en otros, lo cual causa que la luz que llega a dicho nodo sea "Nula".
+
+## Autores 
+
+- Miguel Armando Guluma Sanchez 
+- Jeymar Vega
+- Diego Alejandor Corredor Tolosa
