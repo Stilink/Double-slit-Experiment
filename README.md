@@ -57,4 +57,5 @@ for i in state_click_2:
 ```
 
 Los resultados generados por dicho código, son:
+
 ![](img/results_of_the_code_simulation.PNG)
