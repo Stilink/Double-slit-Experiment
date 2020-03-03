@@ -17,7 +17,7 @@ De este modo el montaje quedo así:
 ## Simulación en la libreria
 En este caso para confirmar el experimento práctico, se buscaba la realización de una simulación dentro de la librería que hemos estado manejando.
 Lo primero que cabe aclarar, es el experimento que se quiere simular, en este caso se uso el siguiente (extraído del libro):
-![](/img/experiment_for_code_simulation.png)
+![](/img/experiment_for_code_simulation.PNG)
 Y ese experimento queda representado dentro del siguiente código.
 ```python
 x=1/(2**0.5) # Esta variable es usada para representar el 1/(2^0.5)
